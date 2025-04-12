@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697626830 source:c:\users\psivk\downloads\movie_booking\movie_booking\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
+1698817908 source:c:\users\psivk\documents\movie_booking\movie_booking\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+
