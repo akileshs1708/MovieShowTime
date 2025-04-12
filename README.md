@@ -17,7 +17,7 @@ This project is developed in C using basic programming concepts such as file han
 - Check seat availability
 - View and confirm bookings
 - Admin login for managing movies and shows
-- Data persistence using file handling
+- Dynamic data storage using file handling
 
 ---
 
@@ -28,6 +28,4 @@ This project is developed in C using basic programming concepts such as file han
 - Concepts Used: File handling, structures, arrays, functions, control statements
 
 ---
-
-## Project Structure
 
